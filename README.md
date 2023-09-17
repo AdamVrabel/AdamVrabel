@@ -9,8 +9,8 @@
 
 
 
-<h3 align="left">Web DeveLanguages:</h3>
-<p align="left">
+<h3 align="center">Web DeveLanguages:</h3>
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 
@@ -29,8 +29,9 @@
 </p>
 
 
-
+<div align="center">
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamVrabel&langs_count=8&theme=onedark-duo" alt=AdamVrabel />
+</div>
 
 <!--
 **AdamVrabel/AdamVrabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
